@@ -1,0 +1,2 @@
+# secbyte-bluetooth-ble-rfid-nfc-contactless-security-ctf-labs
+A practical collection of cybersecurity CTF labs covering Bluetooth Classic &amp; Low Energy (BLE) security (packet sniffing, pairing attacks, GATT enumeration, trust collapse, BlueBeacon breaches) and contactless physical/wireless security (RFID badge replay, access card assessments, NFC payment manipulation, RFID reader investigation).
